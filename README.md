@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Conor-YC
 - 👀 I’m interested in Unity
-- 🌱 I’m currently learning Softwave Engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on what I interested in
 - 📫 How to reach me: 409776152@qq.com(personal) or YUKE.CHEN.2021@MUMAIL.IE(study)
 
 <!---
